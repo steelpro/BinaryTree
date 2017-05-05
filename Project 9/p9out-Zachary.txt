@@ -1,0 +1,21 @@
+Project 9 result output by Zachary Betters
+The generated input:	4 76 86 64 69 36 58 12 93 86 65 50 81 50 85 98 72 73 50 72 
+
+Preorder traversal:	4 76 64 36 12 58 50 50 50 69 65 72 73 72 86 81 85 93 86 98 
+Inorder traversal:	4 12 36 50 50 50 58 64 65 69 72 72 73 76 81 85 86 86 93 98 
+Postorder traversal:	12 50 50 50 58 36 65 72 73 72 69 64 85 81 86 98 93 86 76 4 
+
+Add 8
+
+Preorder traversal:	4 76 64 36 12 8 58 50 50 50 69 65 72 73 72 86 81 85 93 86 98 
+Inorder traversal:	4 8 12 36 50 50 50 58 64 65 69 72 72 73 76 81 85 86 86 93 98 
+Postorder traversal:	8 12 50 50 50 58 36 65 72 73 72 69 64 85 81 86 98 93 86 76 4 
+
+Add 30
+
+Preorder traversal:	4 76 64 36 12 8 30 58 50 50 50 69 65 72 73 72 86 81 85 93 86 98 
+Inorder traversal:	4 8 12 30 36 50 50 50 58 64 65 69 72 72 73 76 81 85 86 86 93 98 
+Postorder traversal:	8 30 12 50 50 50 58 36 65 72 73 72 69 64 85 81 86 98 93 86 76 4 
+
+Delete 99
+** Number is not found **
